@@ -134,11 +134,6 @@ To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 **Let’s build Lumi together and create magic in every touch!**
 
